@@ -1,0 +1,2 @@
+# uiautomatorviewer-tools
+uiautomatorviewer-tools
